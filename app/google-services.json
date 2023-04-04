@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "48285412734",
+    "project_id": "dh-dreamhome-85b7c",
+    "storage_bucket": "dh-dreamhome-85b7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48285412734:android:2aa6ab0eab056370c9972f",
+        "android_client_info": {
+          "package_name": "com.example.dh_dreamhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48285412734-esmjg3spi8qht5ccdug0nd695s3fdogd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dh_dreamhome",
+            "certificate_hash": "6f1080e3355fd77918882b2eb581f400b3b17313"
+          }
+        },
+        {
+          "client_id": "48285412734-1nu9pbsjk8na7tlv9qgbl9oervgj13io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjeQVjBVKuZ-qpv84brRp13F0WPn8aTOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48285412734-1nu9pbsjk8na7tlv9qgbl9oervgj13io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="icons">
+        <item>@drawable/box</item>
+        <item>@drawable/list_box</item>
+        <item>@drawable/area</item>
+        <item>@drawable/people_group</item>
+        <item>@drawable/priority</item>
+    </array>
+    <array name="colors">
+        <item>@color/DH_Button</item>
+        <item>@color/DH_Button</item>
+        <item>@color/DH_Button</item>
+        <item>@color/DH_Button</item>
+        <item>@color/DH_Button</item>
+    </array>
+
+</resources>
